@@ -8,6 +8,7 @@
 
 
 Для запуска сайта на локалхосте используйте находясь в папке \itproger:
+
 python .\manage.py runserver
 
 
@@ -23,5 +24,6 @@ A database is connected with the ability to add, edit, and delete entries from o
 
 
 To run the site on the localhost, locate into the \itproger and use
+
 python.\manage.py runserver
 
