@@ -7,8 +7,9 @@
 Подключена база данных с возможностью добавлять, редактировать и у удалять записи с одной из страниц сайта.
 
 
-Для запуска сайта на локалхосте используйте
-python .\manage.py runserver, находясь в папке \itproger
+Для запуска сайта на локалхосте используйте находясь в папке \itproger:
+python .\manage.py runserver
+
 
 ....................................................................
 
@@ -21,5 +22,6 @@ Page layout in HTML and CSS
 A database is connected with the ability to add, edit, and delete entries from one of the site's pages.
 
 
-To run the site on the localhost, use
-python.\manage.py runserver, located in the \itproger folder
+To run the site on the localhost, locate into the \itproger and use
+python.\manage.py runserver
+
